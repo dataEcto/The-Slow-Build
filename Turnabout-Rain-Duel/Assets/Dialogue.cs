@@ -16,7 +16,7 @@ public class Dialogue : MonoBehaviour
     private int indexC1;
     public float typingSpeed;
     
-    private bool onLastSentence;
+    public bool onLastSentence;
     public bool isTyping;
     
     //If I check if the index is higher than the length, I can do a certain action.
@@ -81,9 +81,12 @@ public class Dialogue : MonoBehaviour
         //If The First Choice was chosen.
         if (choiceOneScript.choseOne && isTyping == false)
         {
-           
+            //Lets start reseting important variables back to what they were.
+            onLastSentence = false;
             StopCoroutine(Type());
             textDisplay.text = "";
+            
+            
             StartCoroutine(TypeChoiceOne());  
             isTyping = true;
  
@@ -193,9 +196,10 @@ public class Dialogue : MonoBehaviour
             if (indexC1 > choiceOneSentences.Length - 2)
             {
                 //I can change the sprites in here.
+                Debug.Log("On last sentence");
                
 
-                if (textDisplay.text == sentences[index])
+                if (textDisplay.text == choiceOneSentences[indexC1])
                 {
                     //And end it off with dialogue boxes here if needed!
                     choiceManager.SetActive(true);
