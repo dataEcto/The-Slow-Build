@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 
-public class ChoiceOne : MonoBehaviour
+public class ChoiceThree : MonoBehaviour
 {
-    public bool choseOne;
+    public bool choiceThree;
     [Header("Text Variables")]
     public TextMeshProUGUI textDisplay;
     [TextArea(3,10)]
@@ -13,20 +13,26 @@ public class ChoiceOne : MonoBehaviour
 
     [Header("Choices Variable")]
     public GameObject choiceManager;
+
     
     void Start()
     {
-        choseOne = false;
+        choiceThree = false;
         textDisplay.text = textToEdit;
         choiceManager = GameObject.Find("Choices");
     }
 
-
-    public void PlayerChoseOne()
+    
+    void Update()
     {
-        choseOne = true;
+        
+    }
+
+    public void ChooseThree()
+    {
+        choiceThree = true;
         choiceManager.SetActive(false);
-        Debug.Log("Choice 1 was chosen");
+        Debug.Log("Choice Three was chosen.");
     }
     
 }
