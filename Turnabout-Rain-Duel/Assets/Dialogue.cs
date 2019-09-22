@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 using UnityEngine.UIElements;
 
 
@@ -11,9 +12,14 @@ public class Dialogue : MonoBehaviour
     public TextMeshProUGUI textDisplay;
     [TextArea(3,10)] public string[] sentences;
     [TextArea(3,10)] public string[] choiceOneSentences;
+    [TextArea(3, 10)] public string[] choiceTwoSentences;
+    [TextArea(3, 10)] public string[] choiceThreeSentences;
     
     private int index;
     private int indexC1;
+    private int indexC2;
+    private int indexC3;
+    
     public float typingSpeed;
     
     public bool onLastSentence;
@@ -101,6 +107,48 @@ public class Dialogue : MonoBehaviour
                 Debug.Log("Display next Sentence");
             }
         }
+        
+        //If the Second Choice was chosen
+        if (choiceTwoScript.chooseTwo && isTyping == false)
+        {
+            //Again, reset all components here.
+            onLastSentence = false;
+            StopCoroutine(Type());
+            textDisplay.text = "";
+
+            StartCoroutine(TypeChoiceTwo());
+            isTyping = true;
+        }
+
+        if (textDisplay.text == choiceTwoSentences[indexC2])
+        {
+            if (Input.GetKeyDown(KeyCode.Space))
+            {
+                NextSentenceChoiceTwo();
+                Debug.Log("Display next Sentence");
+            }
+        }
+        
+        //If the third choice...
+        if (choiceThreeScript.choiceThree && isTyping == false)
+        {
+            //Again, reset all components here.
+            onLastSentence = false;
+            StopCoroutine(Type());
+            textDisplay.text = "";
+
+            StartCoroutine(TypeChoiceThree());
+            isTyping = true;
+        }
+
+        if (textDisplay.text == choiceThreeSentences[indexC3])
+        {
+            if (Input.GetKeyDown(KeyCode.Space))
+            {
+                NextSentenceChoiceThree();
+                Debug.Log("Display next Sentence");
+            }
+        }
 
     }
 
@@ -124,6 +172,43 @@ public class Dialogue : MonoBehaviour
             mainBranch = false;
 
     }
+    
+    public void NextSentence()
+    {
+        if (index < sentences.Length - 1)
+        {
+            index++;
+            textDisplay.text = "";
+            StartCoroutine(Type());
+        }
+      
+        //We run through these nested if statements if 
+        //We are on the last sentence
+        //Make sure this only happens once
+        if (onLastSentence == false)
+        {
+            if (index > sentences.Length - 2)
+            {
+                //I can change the sprites in here.
+                //Or? Perhaps I can make a script in the character that checks this script to see
+                //If sprites should change?
+                //That way, i don't gotta hard code anything.
+                
+
+                if (textDisplay.text == sentences[index])
+                {
+                    //And end it off with dialogue boxes here if needed!
+                    choiceManager.SetActive(true);
+                    onLastSentence = true;
+                  
+                }
+               
+            }
+ 
+        }
+     
+    }
+
 
     IEnumerator TypeChoiceOne()
     {
@@ -145,40 +230,6 @@ public class Dialogue : MonoBehaviour
 
     }
     
-    
-    public void NextSentence()
-    {
-        if (index < sentences.Length - 1)
-        {
-            index++;
-            textDisplay.text = "";
-            StartCoroutine(Type());
-        }
-      
-        //We run through these nested if statements if 
-        //We are on the last sentence
-        //Make sure this only happens once
-        if (onLastSentence == false)
-        {
-            if (index > sentences.Length - 2)
-            {
-                //I can change the sprites in here.
-                anim.SetBool("isHappy",true);
-
-                if (textDisplay.text == sentences[index])
-                {
-                    //And end it off with dialogue boxes here if needed!
-                    choiceManager.SetActive(true);
-                    onLastSentence = true;
-                  
-                }
-               
-            }
- 
-        }
-     
-    }
-
     public void NextSentenceChoiceOne()
     {
         if (indexC1 < choiceOneSentences.Length - 1)
@@ -202,7 +253,8 @@ public class Dialogue : MonoBehaviour
                 if (textDisplay.text == choiceOneSentences[indexC1])
                 {
                     //And end it off with dialogue boxes here if needed!
-                    choiceManager.SetActive(true);
+                    //choiceManager.SetActive(true);
+                    SceneManager.LoadScene("Choice 1 Branch Off");
                     onLastSentence = true;
                   
                 }
@@ -211,7 +263,115 @@ public class Dialogue : MonoBehaviour
  
         }
     }
+
+
+    IEnumerator TypeChoiceTwo()
+    {
+        foreach (char letter in choiceTwoSentences[indexC2].ToCharArray())
+        {
+            textDisplay.text += letter;
+            blip.pitch = Random.Range(0.9f, 1.0f);
+            yield return new WaitForSeconds(typingSpeed);
+            
+            if (!blip.isPlaying)
+            {
+                blip.Play();
+            }
+        }
+
+        isTyping = false;
+        choiceTwoScript.chooseTwo = false;
+    }
     
+    public void NextSentenceChoiceTwo()
+    {
+        if (indexC2 < choiceTwoSentences.Length - 1)
+        {
+            indexC2++;
+            textDisplay.text = "";
+            StartCoroutine(TypeChoiceTwo());
+        }
+      
+        //We run through these nested if statements if 
+        //We are on the last sentence
+        //Make sure this only happens once
+        if (onLastSentence == false)
+        {
+            if (indexC2 > choiceTwoSentences.Length - 2)
+            {
+                //I can change the sprites in here.
+                Debug.Log("On last sentence");
+               
+
+                if (textDisplay.text == choiceTwoSentences[indexC2])
+                {
+                    //And end it off with dialogue boxes here if needed!
+                    //choiceManager.SetActive(true);
+                    onLastSentence = true;
+                    SceneManager.LoadScene("Choice 2 Branch Off");
+                  
+                }
+               
+            }
+ 
+        }
+    }
+    
+    IEnumerator TypeChoiceThree()
+    {
+        foreach (char letter in choiceThreeSentences[indexC3].ToCharArray())
+        {
+            textDisplay.text += letter;
+            blip.pitch = Random.Range(0.9f, 1.0f);
+            yield return new WaitForSeconds(typingSpeed);
+            
+            if (!blip.isPlaying)
+            {
+                blip.Play();
+            }
+        }
+
+        isTyping = false;
+        choiceThreeScript.choiceThree = false;
+    }
+    
+    public void NextSentenceChoiceThree()
+    {
+        if (indexC3 < choiceThreeSentences.Length - 1)
+        {
+            indexC3++;
+            textDisplay.text = "";
+            StartCoroutine(TypeChoiceThree());
+        }
+      
+        //We run through these nested if statements if 
+        //We are on the last sentence
+        //Make sure this only happens once
+        if (onLastSentence == false)
+        {
+            if (indexC3 > choiceThreeSentences.Length - 2)
+            {
+                //I can change the sprites in here.
+                Debug.Log("On last sentence");
+               
+
+                if (textDisplay.text == choiceThreeSentences[indexC3])
+                {
+                    //And end it off with dialogue boxes here if needed!
+                    //choiceManager.SetActive(true);
+                    onLastSentence = true;
+                    SceneManager.LoadScene("Choice 3 Branch Off");
+                  
+                }
+               
+            }
+ 
+        }
+    }
+    
+    
+    
+   
     
 
 }
