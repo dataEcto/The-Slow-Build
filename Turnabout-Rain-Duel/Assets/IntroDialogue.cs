@@ -7,8 +7,12 @@ using UnityEngine.UI;
 using UnityEngine.UIElements;
 
 
-public class Dialogue : MonoBehaviour
+public class IntroDialogue : MonoBehaviour
 {
+    /// <summary>
+    /// THIS IS THE COPY OF THE DIALOGUE SCRIPT
+    /// THAT IS SPECIFIC FOR THE INTRODUCTION
+    /// </summary>
     public TextMeshProUGUI textDisplay;
     [TextArea(3,8)] public string[] sentences;
     [TextArea(3,8)] public string[] choiceOneSentences;
@@ -25,11 +29,10 @@ public class Dialogue : MonoBehaviour
     private bool onLastSentence;
     private bool isTyping;
     
-    //These bools need to be manually set in the inspector
-    //For each case by case scenario.
+    //If I check if the index is higher than the length, I can do a certain action.
+    //Itd have to be something like.. if index is greater than the length of the array - 2
     public bool shouldAnimateCharacter;
-    public bool aninmateTransistion;
-    public bool activateTransistionAnim;
+    public Animator transitionAnim;
     public AudioSource blip;
 
     //I will make it so that these buttons are activate.
@@ -263,12 +266,7 @@ public class Dialogue : MonoBehaviour
                 {
                     //And end it off with dialogue boxes here if needed!
                     //choiceManager.SetActive(true);
-                    StopCoroutine(TypeChoiceOne());
                     StartCoroutine(LoadSceneC1());
-                    if (aninmateTransistion)
-                    {
-                        activateTransistionAnim = true;
-                    }
                     onLastSentence = true;
                   
                 }
@@ -323,9 +321,7 @@ public class Dialogue : MonoBehaviour
                     //And end it off with dialogue boxes here if needed!
                     //choiceManager.SetActive(true);
                     onLastSentence = true;
-                    StopCoroutine(TypeChoiceTwo());
                     StartCoroutine(LoadSceneC2());
-                
                   
                 }
                
@@ -378,10 +374,8 @@ public class Dialogue : MonoBehaviour
                     //And end it off with dialogue boxes here if needed!
                     //choiceManager.SetActive(true);
                     onLastSentence = true;
-                    StopCoroutine(TypeChoiceThree());
                     StartCoroutine(LoadSceneC3());
-                    
-                  
+
                 }
                
             }
@@ -391,33 +385,26 @@ public class Dialogue : MonoBehaviour
 
     IEnumerator LoadSceneC1()
     {
-        if (aninmateTransistion)
-        {
-            activateTransistionAnim = true;
-        }
+        transitionAnim.SetTrigger("End");
         yield return new WaitForSeconds(1.5f);
         SceneManager.LoadScene(sceneToLoad1);
     }
     
     IEnumerator LoadSceneC2()
     {
-        if (aninmateTransistion)
-        {
-            activateTransistionAnim = true;
-        }
+        transitionAnim.SetTrigger("End");
         yield return new WaitForSeconds(1.5f);
         SceneManager.LoadScene(sceneToLoad2);
     }
     
     IEnumerator LoadSceneC3()
     {
-        if (aninmateTransistion)
-        {
-            activateTransistionAnim = true;
-        }
+        transitionAnim.SetTrigger("End");
         yield return new WaitForSeconds(1.5f);
         SceneManager.LoadScene(sceneToLoad3);
     }
+    
+    
     
    
     

@@ -6,9 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/DialogTest2.unity
-    guid: 8728ced372c52c94abe322b0a39ba717
+    path: Assets/Scenes/Intro.unity
+    guid: a904ec38c406bf34f83393d1e1dcd5e9
   - enabled: 1
-    path: Assets/Scenes/Choice 1 Branch Off.unity
-    guid: 72124c00360468c43a5f42a20d1bac66
+    path: Assets/Scenes/TravisAppears.unity
+    guid: 6a7baf4adacb4aa4f94ec5e5dacb4263
+  - enabled: 1
+    path: Assets/Scenes/Game1.unity
+    guid: db31579042b662848b6a34fb74e00c7d
   m_configObjects: {}

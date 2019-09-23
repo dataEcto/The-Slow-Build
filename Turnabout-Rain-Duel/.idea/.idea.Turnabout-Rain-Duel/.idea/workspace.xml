@@ -10,71 +10,111 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Dialogue.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2356">
-              <caret line="194" column="61" selection-start-line="194" selection-start-column="61" selection-end-line="194" selection-end-column="61" />
+            <state relative-caret-position="105">
+              <caret line="416" column="9" selection-start-line="416" selection-start-column="9" selection-end-line="416" selection-end-column="9" />
               <folding>
-                <marker date="1569180308471" expanded="true" signature="6:178" ph="..." />
-                <marker date="1569180308471" expanded="true" signature="218:10508" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="694:864" ph="/* If I check if the index is higher than the length, I can do a certain action. ... */" />
-                <marker date="1569180308471" expanded="true" signature="925:1258" ph="/* I will make it so that these buttons are activate. ... */" />
-                <marker date="1569180308471" expanded="false" signature="1688:2044" ph="{...}" />
-                <marker date="1569180308471" expanded="false" signature="2066:4486" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="2081:2272" ph="/* Set this to type the initial array ... */" />
-                <marker date="1569180308471" expanded="false" signature="2318:2403" ph="{...}" />
-                <marker date="1569180308471" expanded="false" signature="2462:2591" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="2521:2581" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="2693:3001" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="3064:3254" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="3123:3244" ph="{...}" />
-                <marker date="1569180308471" expanded="false" signature="3365:3614" ph="{...}" />
-                <marker date="1569180308471" expanded="false" signature="3676:3866" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="3735:3856" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="3972:4223" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="4287:4479" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="4346:4469" ph="{...}" />
-                <marker date="1569180308471" expanded="false" signature="4510:4966" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="4585:4896" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="4813:4882" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="5002:6021" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="5050:5162" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="5178:5306" ph="/* We run through these nested if statements if ... */" />
-                <marker date="1569180308471" expanded="true" signature="5343:6009" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="5399:5997" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="5430:5669" ph="/* I can change the sprites in here. ... */" />
-                <marker date="1569180308471" expanded="true" signature="5745:5967" ph="{...}" />
-                <marker date="1569180308471" expanded="false" signature="6055:6495" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="6136:6411" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="6344:6401" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="6540:7508" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="6599:6722" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="6738:6866" ph="/* We run through these nested if statements if ... */" />
-                <marker date="1569180308471" expanded="true" signature="6903:7502" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="6970:7490" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="7169:7460" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="7208:7313" ph="/* And end it off with dialogue boxes here if needed! ... */" />
-                <marker date="1569180308471" expanded="false" signature="7542:7971" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="7623:7895" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="7828:7885" ph="{...}" />
-                <marker date="1569180308471" expanded="false" signature="8016:8984" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="8075:8198" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="8214:8342" ph="/* We run through these nested if statements if ... */" />
-                <marker date="1569180308471" expanded="true" signature="8379:8978" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="8446:8966" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="8645:8936" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="8684:8789" ph="/* And end it off with dialogue boxes here if needed! ... */" />
-                <marker date="1569180308471" expanded="false" signature="9023:9458" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="9106:9378" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="9311:9368" ph="{...}" />
-                <marker date="1569180308471" expanded="false" signature="9505:10481" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="9566:9691" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="9707:9835" ph="/* We run through these nested if statements if ... */" />
-                <marker date="1569180308471" expanded="true" signature="9872:10475" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="9941:10463" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="10142:10433" ph="{...}" />
-                <marker date="1569180308471" expanded="true" signature="10181:10286" ph="/* And end it off with dialogue boxes here if needed! ... */" />
+                <marker date="1569194095244" expanded="false" signature="6:178" ph="..." />
+                <marker date="1569194095244" expanded="true" signature="218:11992" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="690:782" ph="/* These bools need to be manually set in the inspector ... */" />
+                <marker date="1569194095244" expanded="true" signature="935:1268" ph="/* I will make it so that these buttons are activate. ... */" />
+                <marker date="1569194095244" expanded="true" signature="1795:2183" ph="{...}" />
+                <marker date="1569194095244" expanded="false" signature="2205:4625" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="2220:2411" ph="/* Set this to type the initial array ... */" />
+                <marker date="1569194095244" expanded="true" signature="2457:2542" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="2601:2730" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="2660:2720" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="2832:3140" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="3203:3393" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="3262:3383" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="3504:3753" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="3815:4005" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="3874:3995" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="4111:4362" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="4426:4618" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="4485:4608" ph="{...}" />
+                <marker date="1569194095244" expanded="false" signature="4649:5105" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="4724:5035" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="4952:5021" ph="{...}" />
+                <marker date="1569194095244" expanded="false" signature="5141:6248" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="5189:5301" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="5317:5445" ph="/* We run through these nested if statements if ... */" />
+                <marker date="1569194095244" expanded="true" signature="5482:6236" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="5538:6224" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="5569:5808" ph="/* I can change the sprites in here. ... */" />
+                <marker date="1569194095244" expanded="true" signature="5972:6194" ph="{...}" />
+                <marker date="1569194095244" expanded="false" signature="6282:6722" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="6363:6638" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="6571:6628" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="6767:8005" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="6826:6949" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="6965:7093" ph="/* We run through these nested if statements if ... */" />
+                <marker date="1569194095244" expanded="true" signature="7130:7999" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="7197:7987" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="7485:7957" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="7524:7629" ph="/* And end it off with dialogue boxes here if needed! ... */" />
+                <marker date="1569194095244" expanded="true" signature="7777:7877" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="8039:8468" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="8120:8392" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="8325:8382" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="8513:9623" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="8572:8695" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="8711:8839" ph="/* We run through these nested if statements if ... */" />
+                <marker date="1569194095244" expanded="true" signature="8876:9617" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="8943:9605" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="9231:9575" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="9270:9375" ph="/* And end it off with dialogue boxes here if needed! ... */" />
+                <marker date="1569194095244" expanded="true" signature="9662:10097" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="9745:10017" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="9950:10007" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="10144:11268" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="10205:10330" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="10346:10474" ph="/* We run through these nested if statements if ... */" />
+                <marker date="1569194095244" expanded="true" signature="10511:11262" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="10580:11250" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="10870:11220" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="10909:11014" ph="/* And end it off with dialogue boxes here if needed! ... */" />
+                <marker date="1569194095244" expanded="true" signature="11299:11501" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="11338:11402" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="11536:11738" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="11575:11639" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="11773:11975" ph="{...}" />
+                <marker date="1569194095244" expanded="true" signature="11812:11876" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/TravisScene.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="840">
+              <caret line="28" column="12" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+              <folding>
+                <marker date="1569194569228" expanded="true" signature="6:165" ph="..." />
+                <marker date="1569194569228" expanded="true" signature="207:842" ph="{...}" />
+                <marker date="1569194569228" expanded="true" signature="336:437" ph="{...}" />
+                <marker date="1569194569228" expanded="true" signature="461:669" ph="{...}" />
+                <marker date="1569194569228" expanded="true" signature="571:643" ph="{...}" />
+                <marker date="1569194569228" expanded="true" signature="697:840" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/SceneTransistions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="508">
+              <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+              <folding>
+                <marker date="1569194027212" expanded="true" signature="6:78" ph="..." />
+                <marker date="1569194027212" expanded="true" signature="178:640" ph="{...}" />
+                <marker date="1569194027212" expanded="true" signature="305:404" ph="{...}" />
+                <marker date="1569194027212" expanded="true" signature="428:638" ph="{...}" />
+                <marker date="1569194027212" expanded="true" signature="486:632" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -91,6 +131,9 @@
     <setting file="file://$PROJECT_DIR$/Assets/ChoiceTwo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Dialogue.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ChoiceThree.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/IntroDialogue.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SceneTransistions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TravisScene.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../The-Game-With-No-Graphics/TheGameWithNoGraphics/Assets/PlayerMove.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -110,7 +153,10 @@
         <option value="$PROJECT_DIR$/Assets/ChoiceOne.cs" />
         <option value="$PROJECT_DIR$/Assets/ChoiceTwo.cs" />
         <option value="$PROJECT_DIR$/Assets/ChoiceThree.cs" />
+        <option value="$PROJECT_DIR$/Assets/IntroDialogue.cs" />
+        <option value="$PROJECT_DIR$/Assets/SceneTransistions.cs" />
         <option value="$PROJECT_DIR$/Assets/Dialogue.cs" />
+        <option value="$PROJECT_DIR$/Assets/TravisScene.cs" />
       </list>
     </option>
   </component>
@@ -174,12 +220,13 @@
       <workItem from="1568908107019" duration="10210000" />
       <workItem from="1569012906810" duration="8892000" />
       <workItem from="1569085649913" duration="8214000" />
-      <workItem from="1569172139580" duration="4449000" />
+      <workItem from="1569172139580" duration="5837000" />
+      <workItem from="1569184346260" duration="6202000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31854000" />
+    <option name="totallyTimeSpent" value="39444000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -192,7 +239,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -312,70 +358,178 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/IntroDialogue.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding>
+            <marker date="1569191053955" expanded="false" signature="6:178" ph="..." />
+            <marker date="1569191053955" expanded="true" signature="223:11650" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="230:356" ph="///  ... " />
+            <marker date="1569191053955" expanded="true" signature="826:996" ph="/* If I check if the index is higher than the length, I can do a certain action. ... */" />
+            <marker date="1569191053955" expanded="true" signature="1107:1440" ph="/* I will make it so that these buttons are activate. ... */" />
+            <marker date="1569191053955" expanded="true" signature="1967:2355" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="2377:4797" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="2392:2583" ph="/* Set this to type the initial array ... */" />
+            <marker date="1569191053955" expanded="true" signature="2629:2714" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="2773:2902" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="2832:2892" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="3004:3312" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="3375:3565" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="3434:3555" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="3676:3925" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="3987:4177" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="4046:4167" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="4283:4534" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="4598:4790" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="4657:4780" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="4821:5277" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="4896:5207" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="5124:5193" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="5313:6420" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="5361:5473" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="5489:5617" ph="/* We run through these nested if statements if ... */" />
+            <marker date="1569191053955" expanded="true" signature="5654:6408" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="5710:6396" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="5741:5980" ph="/* I can change the sprites in here. ... */" />
+            <marker date="1569191053955" expanded="true" signature="6144:6366" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="6454:6894" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="6535:6810" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="6743:6800" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="6939:7980" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="6998:7121" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="7137:7265" ph="/* We run through these nested if statements if ... */" />
+            <marker date="1569191053955" expanded="true" signature="7302:7974" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="7369:7962" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="7657:7932" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="7696:7801" ph="/* And end it off with dialogue boxes here if needed! ... */" />
+            <marker date="1569191053955" expanded="false" signature="8014:8443" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="8095:8367" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="8300:8357" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="8488:9529" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="8547:8670" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="8686:8814" ph="/* We run through these nested if statements if ... */" />
+            <marker date="1569191053955" expanded="true" signature="8851:9523" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="8918:9511" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="9206:9481" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="9245:9350" ph="/* And end it off with dialogue boxes here if needed! ... */" />
+            <marker date="1569191053955" expanded="false" signature="9568:10003" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="9651:9923" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="9856:9913" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="10050:11081" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="10111:10236" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="10252:10380" ph="/* We run through these nested if statements if ... */" />
+            <marker date="1569191053955" expanded="true" signature="10417:11075" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="10486:11063" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="10776:11033" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="10815:10920" ph="/* And end it off with dialogue boxes here if needed! ... */" />
+            <marker date="1569191053955" expanded="true" signature="11112:11259" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="11294:11441" ph="{...}" />
+            <marker date="1569191053955" expanded="true" signature="11476:11623" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SceneTransistions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+          <folding>
+            <marker date="1569194027212" expanded="true" signature="6:78" ph="..." />
+            <marker date="1569194027212" expanded="true" signature="178:640" ph="{...}" />
+            <marker date="1569194027212" expanded="true" signature="305:404" ph="{...}" />
+            <marker date="1569194027212" expanded="true" signature="428:638" ph="{...}" />
+            <marker date="1569194027212" expanded="true" signature="486:632" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Dialogue.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2356">
-          <caret line="194" column="61" selection-start-line="194" selection-start-column="61" selection-end-line="194" selection-end-column="61" />
+        <state relative-caret-position="105">
+          <caret line="416" column="9" selection-start-line="416" selection-start-column="9" selection-end-line="416" selection-end-column="9" />
           <folding>
-            <marker date="1569180308471" expanded="true" signature="6:178" ph="..." />
-            <marker date="1569180308471" expanded="true" signature="218:10508" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="694:864" ph="/* If I check if the index is higher than the length, I can do a certain action. ... */" />
-            <marker date="1569180308471" expanded="true" signature="925:1258" ph="/* I will make it so that these buttons are activate. ... */" />
-            <marker date="1569180308471" expanded="false" signature="1688:2044" ph="{...}" />
-            <marker date="1569180308471" expanded="false" signature="2066:4486" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="2081:2272" ph="/* Set this to type the initial array ... */" />
-            <marker date="1569180308471" expanded="false" signature="2318:2403" ph="{...}" />
-            <marker date="1569180308471" expanded="false" signature="2462:2591" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="2521:2581" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="2693:3001" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="3064:3254" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="3123:3244" ph="{...}" />
-            <marker date="1569180308471" expanded="false" signature="3365:3614" ph="{...}" />
-            <marker date="1569180308471" expanded="false" signature="3676:3866" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="3735:3856" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="3972:4223" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="4287:4479" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="4346:4469" ph="{...}" />
-            <marker date="1569180308471" expanded="false" signature="4510:4966" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="4585:4896" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="4813:4882" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="5002:6021" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="5050:5162" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="5178:5306" ph="/* We run through these nested if statements if ... */" />
-            <marker date="1569180308471" expanded="true" signature="5343:6009" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="5399:5997" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="5430:5669" ph="/* I can change the sprites in here. ... */" />
-            <marker date="1569180308471" expanded="true" signature="5745:5967" ph="{...}" />
-            <marker date="1569180308471" expanded="false" signature="6055:6495" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="6136:6411" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="6344:6401" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="6540:7508" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="6599:6722" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="6738:6866" ph="/* We run through these nested if statements if ... */" />
-            <marker date="1569180308471" expanded="true" signature="6903:7502" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="6970:7490" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="7169:7460" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="7208:7313" ph="/* And end it off with dialogue boxes here if needed! ... */" />
-            <marker date="1569180308471" expanded="false" signature="7542:7971" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="7623:7895" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="7828:7885" ph="{...}" />
-            <marker date="1569180308471" expanded="false" signature="8016:8984" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="8075:8198" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="8214:8342" ph="/* We run through these nested if statements if ... */" />
-            <marker date="1569180308471" expanded="true" signature="8379:8978" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="8446:8966" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="8645:8936" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="8684:8789" ph="/* And end it off with dialogue boxes here if needed! ... */" />
-            <marker date="1569180308471" expanded="false" signature="9023:9458" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="9106:9378" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="9311:9368" ph="{...}" />
-            <marker date="1569180308471" expanded="false" signature="9505:10481" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="9566:9691" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="9707:9835" ph="/* We run through these nested if statements if ... */" />
-            <marker date="1569180308471" expanded="true" signature="9872:10475" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="9941:10463" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="10142:10433" ph="{...}" />
-            <marker date="1569180308471" expanded="true" signature="10181:10286" ph="/* And end it off with dialogue boxes here if needed! ... */" />
+            <marker date="1569194095244" expanded="false" signature="6:178" ph="..." />
+            <marker date="1569194095244" expanded="true" signature="218:11992" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="690:782" ph="/* These bools need to be manually set in the inspector ... */" />
+            <marker date="1569194095244" expanded="true" signature="935:1268" ph="/* I will make it so that these buttons are activate. ... */" />
+            <marker date="1569194095244" expanded="true" signature="1795:2183" ph="{...}" />
+            <marker date="1569194095244" expanded="false" signature="2205:4625" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="2220:2411" ph="/* Set this to type the initial array ... */" />
+            <marker date="1569194095244" expanded="true" signature="2457:2542" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="2601:2730" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="2660:2720" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="2832:3140" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="3203:3393" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="3262:3383" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="3504:3753" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="3815:4005" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="3874:3995" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="4111:4362" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="4426:4618" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="4485:4608" ph="{...}" />
+            <marker date="1569194095244" expanded="false" signature="4649:5105" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="4724:5035" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="4952:5021" ph="{...}" />
+            <marker date="1569194095244" expanded="false" signature="5141:6248" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="5189:5301" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="5317:5445" ph="/* We run through these nested if statements if ... */" />
+            <marker date="1569194095244" expanded="true" signature="5482:6236" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="5538:6224" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="5569:5808" ph="/* I can change the sprites in here. ... */" />
+            <marker date="1569194095244" expanded="true" signature="5972:6194" ph="{...}" />
+            <marker date="1569194095244" expanded="false" signature="6282:6722" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="6363:6638" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="6571:6628" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="6767:8005" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="6826:6949" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="6965:7093" ph="/* We run through these nested if statements if ... */" />
+            <marker date="1569194095244" expanded="true" signature="7130:7999" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="7197:7987" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="7485:7957" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="7524:7629" ph="/* And end it off with dialogue boxes here if needed! ... */" />
+            <marker date="1569194095244" expanded="true" signature="7777:7877" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="8039:8468" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="8120:8392" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="8325:8382" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="8513:9623" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="8572:8695" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="8711:8839" ph="/* We run through these nested if statements if ... */" />
+            <marker date="1569194095244" expanded="true" signature="8876:9617" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="8943:9605" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="9231:9575" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="9270:9375" ph="/* And end it off with dialogue boxes here if needed! ... */" />
+            <marker date="1569194095244" expanded="true" signature="9662:10097" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="9745:10017" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="9950:10007" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="10144:11268" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="10205:10330" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="10346:10474" ph="/* We run through these nested if statements if ... */" />
+            <marker date="1569194095244" expanded="true" signature="10511:11262" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="10580:11250" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="10870:11220" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="10909:11014" ph="/* And end it off with dialogue boxes here if needed! ... */" />
+            <marker date="1569194095244" expanded="true" signature="11299:11501" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="11338:11402" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="11536:11738" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="11575:11639" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="11773:11975" ph="{...}" />
+            <marker date="1569194095244" expanded="true" signature="11812:11876" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TravisScene.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="28" column="12" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+          <folding>
+            <marker date="1569194569228" expanded="true" signature="6:165" ph="..." />
+            <marker date="1569194569228" expanded="true" signature="207:842" ph="{...}" />
+            <marker date="1569194569228" expanded="true" signature="336:437" ph="{...}" />
+            <marker date="1569194569228" expanded="true" signature="461:669" ph="{...}" />
+            <marker date="1569194569228" expanded="true" signature="571:643" ph="{...}" />
+            <marker date="1569194569228" expanded="true" signature="697:840" ph="{...}" />
           </folding>
         </state>
       </provider>
