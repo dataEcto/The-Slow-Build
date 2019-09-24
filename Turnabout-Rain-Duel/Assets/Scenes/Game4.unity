@@ -120,6 +120,137 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &1255479322
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1153482414486052239}
+    m_Modifications:
+    - target: {fileID: 7747028777061377683, guid: d53eb1ca5fd0b214893b97eeccf13f48,
+        type: 3}
+      propertyPath: m_Name
+      value: Objection!
+      objectReference: {fileID: 0}
+    - target: {fileID: 7747028777061377676, guid: d53eb1ca5fd0b214893b97eeccf13f48,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7747028777061377676, guid: d53eb1ca5fd0b214893b97eeccf13f48,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7747028777061377676, guid: d53eb1ca5fd0b214893b97eeccf13f48,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7747028777061377676, guid: d53eb1ca5fd0b214893b97eeccf13f48,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7747028777061377676, guid: d53eb1ca5fd0b214893b97eeccf13f48,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7747028777061377676, guid: d53eb1ca5fd0b214893b97eeccf13f48,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7747028777061377676, guid: d53eb1ca5fd0b214893b97eeccf13f48,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7747028777061377676, guid: d53eb1ca5fd0b214893b97eeccf13f48,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7747028777061377676, guid: d53eb1ca5fd0b214893b97eeccf13f48,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7747028777061377676, guid: d53eb1ca5fd0b214893b97eeccf13f48,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7747028777061377676, guid: d53eb1ca5fd0b214893b97eeccf13f48,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7747028777061377676, guid: d53eb1ca5fd0b214893b97eeccf13f48,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7747028777061377676, guid: d53eb1ca5fd0b214893b97eeccf13f48,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 34
+      objectReference: {fileID: 0}
+    - target: {fileID: 7747028777061377676, guid: d53eb1ca5fd0b214893b97eeccf13f48,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 7747028777061377676, guid: d53eb1ca5fd0b214893b97eeccf13f48,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 7747028777061377676, guid: d53eb1ca5fd0b214893b97eeccf13f48,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7747028777061377676, guid: d53eb1ca5fd0b214893b97eeccf13f48,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7747028777061377676, guid: d53eb1ca5fd0b214893b97eeccf13f48,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7747028777061377676, guid: d53eb1ca5fd0b214893b97eeccf13f48,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7747028777061377676, guid: d53eb1ca5fd0b214893b97eeccf13f48,
+        type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7747028777061377676, guid: d53eb1ca5fd0b214893b97eeccf13f48,
+        type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d53eb1ca5fd0b214893b97eeccf13f48, type: 3}
+--- !u!224 &1324085534 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 7747028777061377676, guid: d53eb1ca5fd0b214893b97eeccf13f48,
+    type: 3}
+  m_PrefabInstance: {fileID: 1255479322}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1324085535 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 7747028777061377679, guid: d53eb1ca5fd0b214893b97eeccf13f48,
+    type: 3}
+  m_PrefabInstance: {fileID: 1255479322}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1909088968
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -495,7 +626,7 @@ MonoBehaviour:
   - 'DESSY: You already checked my bag,
 
     my guy, theres no umbrella there.'
-  - 'TRAVIS: Thats where you''re wrong.'
+  - 'TRAVIS: Your line of thinking is incorrect.'
   - 'DESSY: ...huhh?'
   - "TRAVIS: This person can prove \none thing about our umbrellas!"
   choiceOneSentences:
@@ -535,7 +666,7 @@ MonoBehaviour:
   indexC1: 0
   indexC2: 0
   indexC3: 0
-  typingSpeed: 0.02
+  typingSpeed: 0
   shouldAnimateCharacter: 0
   aninmateTransistion: 0
   activateTransistionAnim: 0
@@ -545,7 +676,7 @@ MonoBehaviour:
   choiceTwo: {fileID: 1153482415734915688}
   choiceThree: {fileID: 1153482415398177882}
   sceneToLoad1: 
-  sceneToLoad2: 
+  sceneToLoad2: Game5
   sceneToLoad3: 
 --- !u!4 &1153482414486052239
 Transform:
@@ -560,6 +691,7 @@ Transform:
   m_Children:
   - {fileID: 1153482416527785646}
   - {fileID: 1153482414595295975}
+  - {fileID: 1324085534}
   m_Father: {fileID: 1153482415142166244}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -785,7 +917,7 @@ RectTransform:
   - {fileID: 1153482414486052239}
   - {fileID: 1153482415174008662}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -1898,3 +2030,82 @@ RectTransform:
   m_AnchoredPosition: {x: -2.5, y: 1}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &4958411525713125204
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4958411525713125205}
+  - component: {fileID: 4958411525713125206}
+  - component: {fileID: 4958411525713125207}
+  m_Layer: 0
+  m_Name: Audio Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4958411525713125205
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4958411525713125204}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4958411525713125206
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4958411525713125204}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cb9f3e977a8e8d4ba3eed4e0fdcb045, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: Suspense
+    clip: {fileID: 8300000, guid: e7d4e0489a681614ba3275df738a2ba9, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: Cornered
+    clip: {fileID: 8300000, guid: 8ffe6590a9acdb94291c267ae7538cc7, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: Travis Objects
+    clip: {fileID: 8300000, guid: b7699d89b69d1424d98b37740e7498ac, type: 3}
+    volume: 1
+    pitch: 1.2
+    loop: 0
+    source: {fileID: 0}
+  dialogueScript: {fileID: 0}
+--- !u!114 &4958411525713125207
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4958411525713125204}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58795a689c212da4aa348ba08f37134b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogueScript: {fileID: 0}
+  audioScript: {fileID: 0}
+  objectAnim: {fileID: 1324085535}
