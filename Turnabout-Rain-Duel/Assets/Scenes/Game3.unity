@@ -605,7 +605,9 @@ MonoBehaviour:
   - 'DESSY: WHAT??!?'
   - 'TRAVIS: Lets say we...'
   choiceOneSentences:
-  - 'TRAVIS: Check your bag?'
+  - 'TRAVIS: Dessy! You''re bag!
+
+    Why don''t we take a look inside.'
   - 'DESSY: HUH?? what are u saying?!
 
     U really wanna check my purse?!
@@ -644,9 +646,13 @@ MonoBehaviour:
 
     like dust in the wind.)'
   choiceTwoSentences:
-  - 
+  - 'DESSY: ur making no sense travis :/'
+  - 'TRAVIS: Wait, I-'
+  - 'DESSY: dats it. imma head out.'
   choiceThreeSentences:
-  - 
+  - 'DESSY: ur making no sense travis :/'
+  - 'TRAVIS: Wait, I-'
+  - 'DESSY: dats it. imma head out.'
   index: 0
   indexC1: 0
   indexC2: 0
@@ -661,8 +667,8 @@ MonoBehaviour:
   choiceTwo: {fileID: 1153482415734915688}
   choiceThree: {fileID: 1153482415398177882}
   sceneToLoad1: Game4
-  sceneToLoad2: 
-  sceneToLoad3: 
+  sceneToLoad2: Bad End
+  sceneToLoad3: Bad End
 --- !u!4 &1153482414486052239
 Transform:
   m_ObjectHideFlags: 0

@@ -27,7 +27,6 @@
           <e p="ChoiceTwo.cs" t="Include" />
           <e p="Dialogue.cs" t="Include" />
           <e p="EndScene.cs" t="Include" />
-          <e p="IntroDialogue.cs" t="Include" />
           <e p="SceneTransistions.cs" t="Include" />
           <e p="TravisScene.cs" t="Include" />
         </e>

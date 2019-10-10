@@ -646,22 +646,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textDisplay: {fileID: 1153482415298113843}
   sentences:
-  - Early this morning...
-  - 'LUCAS: hey'
+  - 'Early this morning...
+
+    In Travis and Lucas'' Home'
+  - 'LUCAS: hey. good morning.'
   - 'TRAVIS: Sup.'
   - 'LUCAS: do you know if its going to rain today'
   - "TRAVIS: Yes it is. I'm looking at the \nweather report right now."
   - 'TRAVIS: It''s going to rain this afternoon.'
   - 'LUCAS: hrngh. i should probably ask dad
 
-    to pick me up. i don''t think my umbrella
-
-    is wor-'
+    to pick me up after school. i don''t think my red umbrella is working.'
   - "TRAVIS: Actually, lil dude, this reminds \nme of something. Instead of asking
     dad..."
   - 'TRAVIS: How about you take an umbrella
 
-    and use it to take Felicity home?'
+    and use it to take Felicity home after school?'
   - 'LUCAS: h-hey, where is this coming from?'
   - 'TRAVIS: Ha. Well, it''s a well known fact, Lucas,
 
@@ -689,9 +689,9 @@ MonoBehaviour:
   - Then, he looked at his phone.
   - 'LUCAS: ah shoot, i got to go.
 
-    i was suppose to start heading towards
+    i was suppose to start taking Felicity
 
-    felicity''s place a while ago.'
+    to school a few minutes ago.'
   - 'TRAVIS: Don''t keep her waiting-huh?'
   - "(Travis saw it from the corner of his eye as\nLucas ran towards the front door.
     \nHis right hand reaching towards the umbrella bin\nright next to it, and grabbing,

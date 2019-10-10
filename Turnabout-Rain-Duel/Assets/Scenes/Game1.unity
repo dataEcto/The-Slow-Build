@@ -388,7 +388,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sounds:
   - name: Court Begins
-    clip: {fileID: 8300000, guid: 39253920ec3f9854c8c77a0146ca2770, type: 3}
+    clip: {fileID: 8300000, guid: 482458f8f92f40b4a84e4c7928b24618, type: 3}
     volume: 1
     pitch: 1
     loop: 1
@@ -614,8 +614,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textDisplay: {fileID: 1028646510717171969}
   sentences:
-  - "TRAVIS:....\n\nI watched as my brother started \nheading home with Felicity."
-  - 'They''re sharing an umbrella...
+  - "TRAVIS DELL:....\n\nI watched as my brother, Lucas, started \nheading home with
+    Felicity."
+  - 'They''re sharing an umbrella.
 
     That''s so sweet.'
   - 'Come to think of it,
@@ -627,15 +628,26 @@ MonoBehaviour:
     relationship."
   - 'Hmm. If I want to do something
 
-    similar with Dessy Labelle...'
+    similar with Dessy Labelle...
+
+    I have to get her to make the
+
+    first move.'
   - 'The best play here would be to wait
 
     for her to show up. She''s busy in
 
-    Robotics right about now.'
-  - "However, she should be leaving fairly \nsoon. "
-  - "Furthermore, Dessy and Felicity both\ncome from a well off family. She \nmost
-    likely had someone tell her to\nbring an umbrella, unlike her ditzy sister."
+    Robotics Club right about now.'
+  - 'She''ll show up, then, I''ll get her
+
+    to offer to share an umbrella.'
+  - 'Dessy and Felicity both come from
+
+    a very dpting family. They must have known
+
+    it''ll rain today, and thus would have
+
+    made sure to give them an umbrella.'
   - Hahaha. And in other to gain her sympathy...
   - '(Travis stepped out underneath the awning
 
@@ -644,16 +656,17 @@ MonoBehaviour:
     allowing the rain to drench him somewhat.)'
   - 'I''ll pretend I got caught in the rain.
 
-    Then, I''ll wait for Dessy to offer
+    That''ll show Dessy that I''m unprepared
 
-    to use her umbrella.'
+    for the weather.'
   - (Travis closed his eyes and smiled.)
   - "Its a flawless plan. I'll even put my own\nbag down here to make it look like
     I \ngot caught in the rain and ran back."
   - "Just you wait Dessy Labelle. \nTheres no way you can think of a way\nout of this
     situation."
-  - You'll HAVE to share an umbrella with me.
-  - '(As if on cue, the mysterious Dessy
+  - "You'll HAVE to share an umbrella with me.\nAnd once people will see you make
+    the \nfirst move.......hahahahahahaa....!"
+  - '(As if on cue, Dessy Labelle
 
     walked out of the school building.)'
   - '(She stopped next to Travis and
@@ -666,7 +679,7 @@ MonoBehaviour:
   - '(Travis glanced at Dessy.
 
     She was looking out at the rain still.)'
-  - '(He looked forward towards the rain
+  - '(He looked forward
 
     and closed his eyes.)'
   - "TRAVIS: I got caught out in the \nrain just as it started. Oh, it was\nAWFUL.
@@ -680,12 +693,20 @@ MonoBehaviour:
   - 'Travis: Don''t be so dramatic. It''s not
 
     THAT bad.'
-  - 
-  - 
+  - 'DESSY: tsk, yah, i guess. says the guy
+
+    whose soaked to bits right now.'
+  - "DESSY: are u trying to get me \nto feel bad, travis?"
+  - 'TRAVIS: ....um.'
+  - "I felt like an asshole, so I just \nwent home without saying another word."
   choiceThreeSentences:
   - 'TRAVIS: Good thing I brought my umbrella.'
-  - 
-  - 
+  - "DESSY: oh. then like, why are u \nall drenched like that tho?"
+  - 'TRAVIS: ....'
+  - 'DESSY: trav?'
+  - 'In the end, I was too embarrased to
+
+    talk to Dessy. So I went home.'
   index: 0
   indexC1: 0
   indexC2: 0

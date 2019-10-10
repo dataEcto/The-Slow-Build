@@ -550,29 +550,29 @@ MonoBehaviour:
     time 2 time.'
   - 'DESSY: it won''t happen again,
 
-    ''mr ace attorney''.'
-  - 'Damn it! Not only did she make such
+    mr mock trial captain.'
+  - 'Damn it! She completely ruined
 
-    a simple deflection...'
-  - "but she also mocked her own hubris..\nI can't target that and make \nher flub
-    up that way."
-  - She's good. Too good at this.
-  - 'Did she plan this kind of thing too?
+    my plan in one fell swoop!'
+  - "Not only that, but she even mocked\nher own hubris! I can't use it as a \ntarget
+    anymore."
+  - "How did she even know what I was \ngoing to do? Did she plan ahead?\nAm I becoming
+    predictable?"
+  - 'Stop...calm down. Don''t act
 
-    N-no, that''s impossible. '
-  - 'She has no way of doing that...
+    surprised. I have to reconsider the
 
-    Something had to be on her way...
-
-'
-  - "That would prevent her from \nNOT taking an umbrella."
+    facts.'
+  - "She says she forgot her umbrella,\nso I have to prove that she has no \nway of
+    forgetting it."
+  - "Something that would prevent \nher..."
   - 'There''s a contradiction in her statement.
 
     If I point it out to her...'
-  - 'TRAVIS: Labelle...Honestly,
+  - 'TRAVIS: Dessy...Honestly,
 
     Whats your game?'
-  - 'DESSY: care to elaborate, dell?'
+  - 'DESSY: care to elaborate, travis dell?'
   - 'TRAVIS: I know you have your
 
     umbrella with you.'
@@ -601,38 +601,42 @@ MonoBehaviour:
 
     reminded you of the weather report today?
 
-    Not even your family, who always
+    Not even your doting family?'
+  - 'DESSY: ....so what?'
+  - 'TRAVIS: We known each other for a while.
 
-    watch over you?'
-  - 'DESSY: i didn''t ... so what?
+    You often tell me how annoying it is
 
-    i thought u had evidence?'
-  - "TRAVIS: They always get you\nbreakfeast and watch you \nand your sister head
-    out to school,\nam I correct?"
+    that your family keeps pestering you to
+
+    be safe outside of school.'
   - DESSY:....hm?!
-  - 'TRAVIS: I''m fairly certain that your dad
+  - 'TRAVIS: I''m fairly certain that your parents
 
-    or mom probably checked the weather
-
-    report this morning.'
-  - "TRAVIS: One of them must have \nhad reminded you of the weather,\nand given you
-    and your sister an umbrella."
+    checked the weather report this morning.'
+  - "TRAVIS: They must have \nhad reminded you of the weather,\nand given you and
+    your sister an umbrella."
   - "DESSY: me and my sister\nwere in a rush this morning! \nso we both forgot em!"
   - 'DESSY: in fact, felicity just texted me about
 
     how she had to share with your brother!'
-  - "TRAVIS: There's no way to prove that \nshe didn't have it."
-  - "TRAVIS: In her case, it could be a \nsimple matter of convience."
+  - "TRAVIS: There's no way to prove that \nshe did or did not have an umbrella."
+  - "TRAVIS: Thats because Lucas' mere\napperance squandered any chance of \nseeing
+    if thats true."
   - 'TRAVIS: She saw that Lucas
 
     had his umbrella out first...'
-  - "TRAVIS: At that point, she had \nNO reason to take out her\nown umbrella."
+  - 'TRAVIS: Since they''re a couple,
+
+    she knew they could have '
   - "TRAVIS: Especially since, she \nwas given a chance to share it\nwith a loved
     one."
   - 'DESSY: S-so i''ll text her right now!
 
     i''ll ask if she brought it with her.'
-  - 'TRAVIS: I have a better idea.'
+  - 'TRAVIS: I have a better idea.
+
+    One that can be done quickly.'
   - 'If she texts Felicity, theres 3 things
 
     that can happen.'
@@ -680,8 +684,8 @@ MonoBehaviour:
   choiceOne: {fileID: 1153482415297230510}
   choiceTwo: {fileID: 1153482415734915688}
   choiceThree: {fileID: 1153482415398177882}
-  sceneToLoad1: 
-  sceneToLoad2: 
+  sceneToLoad1: Bad End
+  sceneToLoad2: Bad End
   sceneToLoad3: Game3
 --- !u!4 &1153482414486052239
 Transform:
@@ -2050,7 +2054,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sounds:
   - name: Moderato
-    clip: {fileID: 8300000, guid: 93ad787d3c2f66b42940de44243bd075, type: 3}
+    clip: {fileID: 8300000, guid: 6e39dc6565b34594587b22afa4c73c16, type: 3}
     volume: 1
     pitch: 1
     loop: 1

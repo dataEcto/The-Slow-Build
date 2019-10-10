@@ -495,15 +495,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textDisplay: {fileID: 1028646510790361440}
   sentences:
-  - 'It was raining. It was almost a situation
-
-    out of a sterotypical romantic teen show.'
   - "Right as the school bell rang, signaling to\nall the tired souls inside that
     the school day was over, \nit started to pour."
+  - "It was almost like a situation out of a \nromantic teen show."
   - "For some students, rain was nothing more \nthan a nuisance. \nFor young couples,
     it was a test of love."
-  - "There are certain things that can happen\n once it starts to rain, especially
-    after school."
+  - 'There are certain things that can happen
+
+    once it starts to rain after school.'
   - "1) You go home alone or with friends\n with or without an umbrella."
   - '2) You take out your own umbrella
 
@@ -511,9 +510,11 @@ MonoBehaviour:
   - 'In a world where infinite choices can be made,
 
     it almost feels as though....'
-  - "This is the only situation in life \nwhere only one of those 2 choices can be
-    made."
-  - "None knew this better than \nLucas Dell and his date."
+  - "This is the only situation in life \nwhere only one of those 2 choices can chosen
+    from."
+  - 'None knew this better than our protagonist
+
+    Lucas Dell and his love interest.'
   - 'LUCAS: ...'
   - "He stood outside of the building\nhiding under the awning and \nwatching the
     rain pour."
@@ -521,11 +522,12 @@ MonoBehaviour:
 
     wasn''t exactly raining hard either.
 
+
 '
-  - "He blinked and stared off in the \ndistance, grabbing an orange\numbrella in
-    the mean time."
+  - "He blinked and stared off towards the \ndistance, grabbing an orange\numbrella
+    from his bag in the mean time."
   - "At that moment, Lucas saw \nin the corner of his eye a familar\nperson. Felicity
-    Labelle."
+    Labelle. "
   - 'FELICITY: wow...it''s really pouring
 
     out here, isn''t it?'
@@ -537,29 +539,32 @@ MonoBehaviour:
     She held on to her backpack strap. and tilted her head.'
   - "Lucas took a moment \nto analyze the situation."
   - "LUCAS: (Judging by the fact that shes \nholding on to her backpack tightly...)"
-  - "(as well has having her hood on, \nit seems as though she is either\n taking
-    in the rain for a bit...)"
+  - "(as well has having her hood on, \nit seems as though she is either\ntaking in
+    the rain for a bit...)"
   - '(...Or she doesn''t have her
 
     umbrella.)'
-  - "Lucas watched her a bit longer.\nShe did not move from her spot at all. \nIn
-    fact, she put her hands\nin her pocket."
+  - "Lucas watched her a bit longer.\nShe did not move from her spot at all. \n"
   - 'LUCAS: (shes getting comfy now...did she forget
 
     her umbrella?)'
-  - "Looking down at his own hands, \nLucas had his foldable umbrella.\nRight away,
-    he knew what to do."
+  - 'Lucas looked at his foldable umbrella.
+
+    Right away, he knew what to do.'
   - 'LUCAS: felicity-'
   - 'FELICITY: um...is it okay if we share
 
     an umbrella?'
   - "They both looked at each other at the same \ntime in surprise. Shortly afterwards,\nthey
     smiled warmly at each other."
-  - 'LUCAS: how did you know?'
-  - 'FELICITY: how did YOU know?'
+  - 'LUCAS: how did you know i was going
+
+    to ask?'
+  - 'FELICITY: how did YOU know i was going
+
+    to ask?'
   - "LUCAS: You were just waiting there calmly.\neveryone else is leaving, but youre
-    standing\nnext to me. like you wanted me to ask you \nif you want to share an
-    umbrella."
+    standing\nnext to me. like you wanted me to offer to \nshare an umbrella."
   - 'Felicity kept smiling at him. '
   - 'FELICITY: ha, i was getting impatient
 
@@ -567,7 +572,9 @@ MonoBehaviour:
   - 'LUCAS: huh?'
   - 'FELICITY: we''re dating now, so i thought you
 
-    were going to offer me to share an umbrella right away...'
+    were going to offer to protect me from the
+
+    rain right away...'
   - "FELICITY: its okay. i'm not going to dock \npoints away from you or anything."
   - 'Lucas looked confused, but his smile
 
@@ -585,7 +592,7 @@ MonoBehaviour:
   - 'LUCAS: Lets get going, then?'
   - "Felicity, without missing a beat, moved closer to \nLucas and held on to his
     arm. "
-  - 'Blusing, he started leading her off
+  - 'Blushing, he started leading her off
 
     towards the school''s gate,
 
@@ -617,7 +624,7 @@ MonoBehaviour:
   - 'LUCAS: stay close to me.'
   - "Felicity, without missing a beat, moved closer to \nLucas and held on to his
     arm. "
-  - 'Blusing, he started leading her off
+  - 'Blushing, he started leading her off
 
     towards the school''s gate,
 
@@ -633,7 +640,7 @@ MonoBehaviour:
   indexC1: 0
   indexC2: 0
   indexC3: 0
-  typingSpeed: 0
+  typingSpeed: 0.01
   shouldAnimateCharacter: 0
   aninmateTransistion: 1
   activateTransistionAnim: 0

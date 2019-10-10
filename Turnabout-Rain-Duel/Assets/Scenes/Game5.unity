@@ -849,9 +849,61 @@ MonoBehaviour:
   - 'DESSY: speaking of which..'
   - 'Dessy: may i check ur bag?'
   choiceOneSentences:
-  - 
+  - 'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+    AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+    AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH!!'
+  - She...got me...fair and square.
+  - 'It''s true that this whole time...
+
+    I was lying. '
+  - 'Looking back at it all now...
+
+    I think it''s time I stop this charade.
+
+    This slow build up doesn''t benefit anyone..'
+  - "Here I am with a chance to walk home with\nDessy Labelle, the girl of my dreams,
+    and\nI'm ruining it. She really wants to go \nhome with me too.."
+  - 'But...these little verbal debates we have...
+
+    They''re so much fun. '
+  - But...
+  - It'll be a lot more fun to be with her.
+  - 'I reached into my bag to get my umbrella,
+
+    and-'
+  - 'TRAVIS: Fuck.'
+  - 'DESSY: don''t pretend u dont have it :/'
+  - 'TRAVIS: No, I....'
   choiceTwoSentences:
-  - 
+  - 'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+    AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+    AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH!!'
+  - She...got me...fair and square.
+  - 'It''s true that this whole time...
+
+    I was lying. '
+  - 'Looking back at it all now...
+
+    I think it''s time I stop this charade.
+
+    This slow build up doesn''t benefit anyone..'
+  - "Here I am with a chance to walk home with\nDessy Labelle, the girl of my dreams,
+    and\nI'm ruining it. She really wants to go \nhome with me too.."
+  - 'But...these little verbal debates we have...
+
+    They''re so much fun. '
+  - But...
+  - It'll be a lot more fun to be with her.
+  - 'I reached into my bag to get my umbrella,
+
+    and-'
+  - 'TRAVIS: Fuck.'
+  - 'DESSY: don''t pretend u dont have it :/'
+  - 'TRAVIS: No, I....'
   choiceThreeSentences:
   - 'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
@@ -884,7 +936,7 @@ MonoBehaviour:
   indexC1: 0
   indexC2: 0
   indexC3: 0
-  typingSpeed: 0.02
+  typingSpeed: 0
   shouldAnimateCharacter: 0
   aninmateTransistion: 1
   activateTransistionAnim: 0

@@ -587,8 +587,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textDisplay: {fileID: 1153482415298113843}
   sentences:
-  - 'TRAVIS: Your...umbrella?'
-  - 'DESSY: bet u feel dumb now, dell :P
+  - 'TRAVIS: Wheres your....umbrella....?'
+  - 'DESSY: bet u feel dumb now, travis :P
 
     I told u, i don''t have an umbrella.'
   - (Travis gripped his left shoulder.)
@@ -620,7 +620,7 @@ MonoBehaviour:
   - 'I should prove that I DON''T have an
 
     umbrella!'
-  - 'TRAVIS: I''m changing things up.'
+  - 'TRAVIS: Not yet. It''s not over yet.'
   - 'DESSY: oh?'
   - 'TRAVIS: I can prove it...'
   - 'DESSY: You already checked my bag,
@@ -630,9 +630,11 @@ MonoBehaviour:
   - 'DESSY: ...huhh?'
   - "TRAVIS: This person can prove \none thing about our umbrellas!"
   choiceOneSentences:
-  - 
-  - 
-  - 
+  - 'TRAVIS: It can only be YOU!'
+  - 'DESSY:................that is the dumbest bluff i heard
+
+    all day.'
+  - TRAVIS:......Damn it.
   choiceTwoSentences:
   - 'DESSY: Yourself?!'
   - (Travis spread his arms out.)
@@ -659,9 +661,12 @@ MonoBehaviour:
 
     OOOOhhh!'
   choiceThreeSentences:
-  - 
-  - 
-  - 
+  - 'DESSY: wat about ur brother?'
+  - 'TRAVIS:.....Well, you see, he.......
+
+    um......Hmm.'
+  - DESSY:.....
+  - "In the end, I felt like such a rookie \nthat I went home without another word."
   index: 0
   indexC1: 0
   indexC2: 0
@@ -675,9 +680,9 @@ MonoBehaviour:
   choiceOne: {fileID: 1153482415297230510}
   choiceTwo: {fileID: 1153482415734915688}
   choiceThree: {fileID: 1153482415398177882}
-  sceneToLoad1: 
+  sceneToLoad1: Bad End
   sceneToLoad2: Game5
-  sceneToLoad3: 
+  sceneToLoad3: Bad End
 --- !u!4 &1153482414486052239
 Transform:
   m_ObjectHideFlags: 0
