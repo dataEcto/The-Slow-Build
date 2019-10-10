@@ -113,7 +113,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/EndScene.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
+            <state relative-caret-position="336">
               <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
               <folding>
                 <marker date="1569283564246" expanded="false" signature="6:165" ph="..." />
@@ -126,14 +126,103 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Audio Scripts/Sound.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
+            <state relative-caret-position="16">
               <caret line="5" selection-start-line="5" selection-end-line="5" />
               <folding>
                 <marker date="1570583109815" expanded="false" signature="6:147" ph="..." />
                 <marker date="1570583109815" expanded="true" signature="189:414" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Dialogue.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5875">
+              <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+              <folding>
+                <marker date="1569247885309" expanded="false" signature="6:178" ph="..." />
+                <marker date="1569247885309" expanded="true" signature="218:11988" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="686:778" ph="/* These bools need to be manually set in the inspector ... */" />
+                <marker date="1569247885309" expanded="true" signature="931:1264" ph="/* I will make it so that these buttons are activate. ... */" />
+                <marker date="1569247885309" expanded="true" signature="1791:2179" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="2201:4621" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="2216:2407" ph="/* Set this to type the initial array ... */" />
+                <marker date="1569247885309" expanded="true" signature="2453:2538" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="2597:2726" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="2656:2716" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="2828:3136" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="3199:3389" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="3258:3379" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="3500:3749" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="3811:4001" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="3870:3991" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="4107:4358" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="4422:4614" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="4481:4604" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="4645:5101" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="4720:5031" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="4948:5017" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="5137:6244" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="5185:5297" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="5313:5441" ph="/* We run through these nested if statements if ... */" />
+                <marker date="1569247885309" expanded="true" signature="5478:6232" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="5534:6220" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="5565:5804" ph="/* I can change the sprites in here. ... */" />
+                <marker date="1569247885309" expanded="true" signature="5968:6190" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="6278:6718" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="6359:6634" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="6567:6624" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="6763:8001" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="6822:6945" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="6961:7089" ph="/* We run through these nested if statements if ... */" />
+                <marker date="1569247885309" expanded="true" signature="7126:7995" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="7193:7983" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="7481:7953" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="7520:7625" ph="/* And end it off with dialogue boxes here if needed! ... */" />
+                <marker date="1569247885309" expanded="true" signature="7773:7873" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="8035:8464" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="8116:8388" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="8321:8378" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="8509:9619" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="8568:8691" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="8707:8835" ph="/* We run through these nested if statements if ... */" />
+                <marker date="1569247885309" expanded="true" signature="8872:9613" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="8939:9601" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="9227:9571" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="9266:9371" ph="/* And end it off with dialogue boxes here if needed! ... */" />
+                <marker date="1569247885309" expanded="true" signature="9658:10093" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="9741:10013" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="9946:10003" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="10140:11264" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="10201:10326" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="10342:10470" ph="/* We run through these nested if statements if ... */" />
+                <marker date="1569247885309" expanded="true" signature="10507:11258" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="10576:11246" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="10866:11216" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="10905:11010" ph="/* And end it off with dialogue boxes here if needed! ... */" />
+                <marker date="1569247885309" expanded="true" signature="11295:11497" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="11334:11398" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="11532:11734" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="11571:11635" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="11769:11971" ph="{...}" />
+                <marker date="1569247885309" expanded="true" signature="11808:11872" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../Loser/Biggest Loser/Assets/Scenes/IntroDialogue.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="58" column="16" lean-forward="true" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#178#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -150,6 +239,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Felicity/FeliceAnimation.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Audio Scripts/Game4Music.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EndScene.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Loser/Biggest Loser/Assets/060 Dating Sim Mini/Scripts/Dialogue.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Audio Scripts/Game2Music.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Audio Scripts/Sound.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Audio Scripts/AudioManager.cs" root0="FORCE_HIGHLIGHTING" />
@@ -158,6 +248,7 @@
     <setting file="file://$PROJECT_DIR$/../../../mind-cleaning-master/mind-cleaning-master/Int Midterm/Assets/Scripts/Start_Dialog.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Audio Scripts/Game0Music.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Audio Scripts/Game7Music.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Loser/Biggest Loser/Assets/Scenes/IntroDialogue.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Audio Scripts/Game1Music.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Dialogue.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -262,11 +353,12 @@
       <workItem from="1569184346260" duration="6202000" />
       <workItem from="1569238308155" duration="17303000" />
       <workItem from="1570583072863" duration="317000" />
+      <workItem from="1570737403894" duration="208000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57064000" />
+    <option name="totallyTimeSpent" value="57338000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -279,6 +371,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -445,81 +538,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Dialogue.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="408" selection-start-line="408" selection-end-line="408" />
-          <folding>
-            <marker date="1569247885309" expanded="false" signature="6:178" ph="..." />
-            <marker date="1569247885309" expanded="true" signature="218:11988" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="686:778" ph="/* These bools need to be manually set in the inspector ... */" />
-            <marker date="1569247885309" expanded="true" signature="931:1264" ph="/* I will make it so that these buttons are activate. ... */" />
-            <marker date="1569247885309" expanded="true" signature="1791:2179" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="2201:4621" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="2216:2407" ph="/* Set this to type the initial array ... */" />
-            <marker date="1569247885309" expanded="true" signature="2453:2538" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="2597:2726" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="2656:2716" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="2828:3136" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="3199:3389" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="3258:3379" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="3500:3749" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="3811:4001" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="3870:3991" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="4107:4358" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="4422:4614" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="4481:4604" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="4645:5101" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="4720:5031" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="4948:5017" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="5137:6244" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="5185:5297" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="5313:5441" ph="/* We run through these nested if statements if ... */" />
-            <marker date="1569247885309" expanded="true" signature="5478:6232" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="5534:6220" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="5565:5804" ph="/* I can change the sprites in here. ... */" />
-            <marker date="1569247885309" expanded="true" signature="5968:6190" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="6278:6718" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="6359:6634" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="6567:6624" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="6763:8001" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="6822:6945" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="6961:7089" ph="/* We run through these nested if statements if ... */" />
-            <marker date="1569247885309" expanded="true" signature="7126:7995" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="7193:7983" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="7481:7953" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="7520:7625" ph="/* And end it off with dialogue boxes here if needed! ... */" />
-            <marker date="1569247885309" expanded="true" signature="7773:7873" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="8035:8464" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="8116:8388" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="8321:8378" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="8509:9619" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="8568:8691" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="8707:8835" ph="/* We run through these nested if statements if ... */" />
-            <marker date="1569247885309" expanded="true" signature="8872:9613" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="8939:9601" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="9227:9571" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="9266:9371" ph="/* And end it off with dialogue boxes here if needed! ... */" />
-            <marker date="1569247885309" expanded="true" signature="9658:10093" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="9741:10013" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="9946:10003" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="10140:11264" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="10201:10326" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="10342:10470" ph="/* We run through these nested if statements if ... */" />
-            <marker date="1569247885309" expanded="true" signature="10507:11258" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="10576:11246" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="10866:11216" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="10905:11010" ph="/* And end it off with dialogue boxes here if needed! ... */" />
-            <marker date="1569247885309" expanded="true" signature="11295:11497" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="11334:11398" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="11532:11734" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="11571:11635" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="11769:11971" ph="{...}" />
-            <marker date="1569247885309" expanded="true" signature="11808:11872" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/IntroDialogue.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Felicity/FeliceAnimation.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="592">
@@ -610,16 +629,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/IntroDialogue.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/EndScene.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
+        <state relative-caret-position="336">
           <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
           <folding>
             <marker date="1569283564246" expanded="false" signature="6:165" ph="..." />
@@ -631,9 +643,104 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../Loser/Biggest Loser/Assets/060 Dating Sim Mini/Scripts/Dialogue.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Loser/Biggest Loser/Assets/Scenes/IntroDialogue.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="58" column="16" lean-forward="true" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Dialogue.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7150">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+          <folding>
+            <marker date="1569247885309" expanded="false" signature="6:178" ph="..." />
+            <marker date="1569247885309" expanded="true" signature="218:11988" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="686:778" ph="/* These bools need to be manually set in the inspector ... */" />
+            <marker date="1569247885309" expanded="true" signature="931:1264" ph="/* I will make it so that these buttons are activate. ... */" />
+            <marker date="1569247885309" expanded="true" signature="1791:2179" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="2201:4621" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="2216:2407" ph="/* Set this to type the initial array ... */" />
+            <marker date="1569247885309" expanded="true" signature="2453:2538" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="2597:2726" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="2656:2716" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="2828:3136" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="3199:3389" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="3258:3379" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="3500:3749" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="3811:4001" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="3870:3991" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="4107:4358" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="4422:4614" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="4481:4604" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="4645:5101" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="4720:5031" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="4948:5017" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="5137:6244" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="5185:5297" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="5313:5441" ph="/* We run through these nested if statements if ... */" />
+            <marker date="1569247885309" expanded="true" signature="5478:6232" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="5534:6220" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="5565:5804" ph="/* I can change the sprites in here. ... */" />
+            <marker date="1569247885309" expanded="true" signature="5968:6190" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="6278:6718" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="6359:6634" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="6567:6624" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="6763:8001" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="6822:6945" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="6961:7089" ph="/* We run through these nested if statements if ... */" />
+            <marker date="1569247885309" expanded="true" signature="7126:7995" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="7193:7983" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="7481:7953" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="7520:7625" ph="/* And end it off with dialogue boxes here if needed! ... */" />
+            <marker date="1569247885309" expanded="true" signature="7773:7873" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="8035:8464" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="8116:8388" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="8321:8378" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="8509:9619" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="8568:8691" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="8707:8835" ph="/* We run through these nested if statements if ... */" />
+            <marker date="1569247885309" expanded="true" signature="8872:9613" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="8939:9601" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="9227:9571" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="9266:9371" ph="/* And end it off with dialogue boxes here if needed! ... */" />
+            <marker date="1569247885309" expanded="true" signature="9658:10093" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="9741:10013" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="9946:10003" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="10140:11264" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="10201:10326" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="10342:10470" ph="/* We run through these nested if statements if ... */" />
+            <marker date="1569247885309" expanded="true" signature="10507:11258" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="10576:11246" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="10866:11216" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="10905:11010" ph="/* And end it off with dialogue boxes here if needed! ... */" />
+            <marker date="1569247885309" expanded="true" signature="11295:11497" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="11334:11398" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="11532:11734" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="11571:11635" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="11769:11971" ph="{...}" />
+            <marker date="1569247885309" expanded="true" signature="11808:11872" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Audio Scripts/Sound.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
+        <state relative-caret-position="16">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
             <marker date="1570583109815" expanded="false" signature="6:147" ph="..." />
